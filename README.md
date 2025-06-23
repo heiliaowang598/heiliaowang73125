@@ -35,7 +35,7 @@
 
 点击访问：<a href="https://tt-01.pages.dev/">Twitter中文</a>
 
-点击访问：<a href="https://hl240.pages.dev/">今日黑料</a>
+点击访问：<a href="https://hl240.pages.dev/">独家黑料</a>
 
 点击访问：<a href="https://hl226.pages.dev/">黑料大事记</a>
 
